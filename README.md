@@ -1,3 +1,6 @@
+![image](https://github.com/PeterCodyLeon/configure-ad/assets/161895166/eb511daf-9347-4801-bcf6-cc8151296087)
+
+
 Log in to your AWS Console with Administrator permissions.
 
 Under Security, Identity & Compliance, select Directory Service.
