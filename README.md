@@ -94,6 +94,9 @@ Stage 3: Working the Issue
 
 On the back end Jane doe is Working with the sytem administrator team  addressing and resolving the issue.
 
+
+
+
 Stage 4: Resolution
 
 Once the issue is resolved, head back to the ticket and update the end user.
@@ -105,6 +108,9 @@ Ticket Status: Resolved
 Select Post Reply
 
 The ticket should now be on the "closed" tab since it has been resolved.
+
+![image](https://github.com/PeterCodyLeon/osTicket-Ticket-Lifecycle-Examples/assets/161895166/a7f1d978-586e-4a9d-ad93-da30d89266ca)
+
 
 
 
