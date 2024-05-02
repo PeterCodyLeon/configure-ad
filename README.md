@@ -110,7 +110,7 @@ Select Post Reply
 
 The ticket should now be on the "closed" tab since it has been resolved.
 
-![image](https://github.com/PeterCodyLeon/osTicket-Ticket-Lifecycle-Examples/assets/161895166/a7f1d978-586e-4a9d-ad93-da30d89266ca)
+![image](https://github.com/PeterLeonIT/osTicket-Ticket-Lifecycle-Examples/assets/161895166/3e14ed60-7aa3-49cb-a9d7-3f9c69f685fb)
 
 
 
