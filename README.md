@@ -86,8 +86,9 @@ Select Post Reply
 ![image](https://github.com/PeterCodyLeon/osTicket-Ticket-Lifecycle-Examples/assets/161895166/c2d16886-4de8-4ab0-9bb2-526e20a554e1)
 
 
+![image](https://github.com/PeterLeonIT/osTicket-Ticket-Lifecycle-Examples/assets/161895166/f4358821-9cfc-440e-86d7-c4d8829fff5b)
 
-![image](https://github.com/PeterCodyLeon/osTicket-Ticket-Lifecycle-Examples/assets/161895166/b484034e-8a44-4de5-acec-7ba36ae23560)
+
 
 
 Stage 3: Working the Issue
